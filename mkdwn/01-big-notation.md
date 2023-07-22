@@ -20,8 +20,6 @@
 
 ## Big Notation 이란?
 
---- 
-
 알고리즘 및 함수의 복잡도를 단순화 하는 표기법 이다.  
 알고리즘의 성능을 테스트 할 수 있는 지표가 된다.   
 주로 최악의 경우를 다룬다.  
@@ -46,38 +44,34 @@ Big Notation List:
 
 ## Time Complexity 종류
 
----
-
 * **O(1) [*Constant*]**
   * 한번의 실행으로 끝이 난다.
-  * [코드 확인하기]()
+  * [코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/a_big_o/A_constant.java)
   
 
 * **O(n) [*Linear*]**
   * 경우의 수를 찾기 위해 처음부터 끝까지 찾는다.
   * 일차원 이다. (한줄)
-  * [코드 확인하기]()
+  * [코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/a_big_o/B_linear.java)
 
 
 * **O(n²) [*Quadratic*]**
   * 경우의 수를 찾기 위해 처음부터 끝까지 n제곱으로 찾는다.
   * n * n => n²
   * 이차원 이다. (체스판)
-  * [코드 확인하기]()
+  * [코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/a_big_o/C_quadratic.java)
 
 
 * **O(log₂(n)) [*Logarithmic*]**
   * 로그 방정식을 활용해 찾는다.
   * 전체 데이터 길이를 반씩 쪼개어 찾는다. 
-  * [코드 확인하기]()
+  * [코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/a_big_o/D_logarithmic.java)
   
 <br/><br/><br/>
 
 
 
 ## 법칙
-
----
 
 * **Drop Constants**
   * 상수를 제거 한다.
@@ -171,8 +165,6 @@ Big Notation List:
 
 
 ## Big O 시간 복잡도 그래프 및 효율
-
----
 
 ### 시간 복잡도 그래프
 
