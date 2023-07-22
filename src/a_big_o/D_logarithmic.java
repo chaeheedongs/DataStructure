@@ -5,8 +5,9 @@ public class D_logarithmic {
     public static void main(String[] args) {
 
         /**
-         * BigO - O(log n) <p>
-         *  <p>
+         * BigO - O(log₂(n)) <p>
+         * 로그 방정식을 활용해 찾는다.
+         * 전체 데이터 길이를 반씩 쪼개어 찾는다.
          */
         int n = 16;
         int funcResult = func(n);
@@ -16,7 +17,7 @@ public class D_logarithmic {
 
     }
 
-    // O(log n)
+    // O(log₂(n))
     public static int func(int n) {
 
         System.out.println();
@@ -25,9 +26,9 @@ public class D_logarithmic {
 
         int count = 0;
 
-        while(n > 1){ //log n+1
+        while(n > 1){
             count = count + 1;
-            n = n / 2; //log n
+            n = n / 2;
             System.out.println("n = " + n + ", count = " + count);
         }
 
