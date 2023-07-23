@@ -23,7 +23,7 @@
 Class란 객체를 만드는 틀 이라고 이해하면 된다.  
 아래 클래스를 선언하는 코드이다.
 
-[클래스 관련 자세한 설명 보기]()
+[클래스 관련 자세한 설명 보기](https://github.com/chaeheedongs/JavaBasic/blob/master/mkdwn/03_class.md)
 
 ~~~java
 public class User {
@@ -47,7 +47,7 @@ Class를 생성하는 방법은 Class 생성자를 이용하는 방법이다.
 Class 생성자는 접근제어자와 Class이름으로 구성되어 있으며,  
 주로 매개변수를 받아 Class 필드에 할당을 한다.
 
-[코드 확인하기]()
+[코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/b_class_pointer/dto/User.java)
 
 ~~~java
 public class User {
@@ -88,7 +88,7 @@ public class User {
 인스턴스화 된 Class는 메모리(JVM-Heap)에 저장이 되며,  
 해당 Class는 메모리의 주소 값을 할당 받는다.
 
-[코드 확인하기]()
+[코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/b_class_pointer/ClassMemory.java)
 
 ~~~java
 public static void main(String[] args) {
@@ -133,7 +133,7 @@ Object를 상속 받는 모든 객체는 값을 저장할 때 주소값을 저�
 Call By Reference로 객체를 복사하면 두 객체의 주소값이 동일해지며,  
 한 쪽에서 값 변경이 일어 난다면 다른 복사한 쪽 에서도 변경이 일어난다.
 
-[코드 확인하기]()
+[코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/b_class_pointer/CallByReference.java)
 
 ~~~java
 public static void main(String[] args){
