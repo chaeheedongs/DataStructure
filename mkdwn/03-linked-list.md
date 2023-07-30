@@ -105,7 +105,7 @@ ArrayList의 배열 구조와는 다르게 각 노드의 링크 참조 구조로
 
 단일 연결 리스트 라고도 불린다.  
 [전체 코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/c_linked_list/SinglyLinkedList.java)
-[결과 코드 확인하기]()
+[결과 코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/c_linked_list/SinglyLinkedListTest.java)
 
 <br/>
 
