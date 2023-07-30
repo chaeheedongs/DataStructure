@@ -1,6 +1,6 @@
 package c_linked_list;
 
-public class CustomLinkedListTest {
+public class SinglyLinkedListTest {
 
     public static void main(String[] args) {
 
