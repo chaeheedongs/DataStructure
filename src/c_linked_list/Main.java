@@ -1,8 +1,9 @@
-package b_class_pointer;
+package c_linked_list;
 
-public class Pointer {
+public class Main {
 
     public static void main(String[] args) {
+
 
     }
 }
