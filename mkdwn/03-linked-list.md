@@ -400,8 +400,8 @@ ArrayList의 배열 구조와는 다르게 각 노드의 링크 참조 구조로
 
 이중 연결 리스트 라고도 불린다.
 
-[전체 코드 확인하기]()  
-[결과 코드 확인하기]()
+[전체 코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/c_linked_list/DoublyLinkedList.java)  
+[결과 코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/c_linked_list/DoublyLinkedListTest.java)
 
 ### Double Node
 * 더블 노드 구조는 데이터와 이전 노드와 다음 노드를 저장하는 Node가 있다.
