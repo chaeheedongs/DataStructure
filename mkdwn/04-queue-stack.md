@@ -30,7 +30,7 @@
 줄을 서는 행동은 데이터를 추가하는 행동이며, 이 것을 Enqueue라고 한다.  
 순서가 다가와 줄에서 벗어나는 행동은 데이터를 꺼내는 행동이며, 이 것을 Dequeue라고 한다.
 
-[코드 확인하기]()
+[코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/d_queue_stack/Queue.java)
 
 <br/><br/><br/>
 
@@ -116,7 +116,7 @@
 프링글스 과자통에 과자를 담는 행동은 데이터를 추가하는 행동이며, 이 것을 Push라고 한다.  
 프링글스 과자통에 과자를 꺼내는 행동은 데이터를 꺼내는 행동이며, 이 것을 Pop이라 한다.  
 
-[코드 확인하기]()
+[코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/d_queue_stack/Stack.java)
 
 <br/><br/><br/>
 
