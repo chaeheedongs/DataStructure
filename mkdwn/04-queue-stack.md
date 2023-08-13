@@ -7,8 +7,8 @@
 
 ## Index
 
-* [Queue란?](#Queue란?)
-* [Stack이란?](#Stack이란?)
+* [Queue 란?](#Queue-란?)
+* [Stack 이란?](#Stack-이란?)
 
 ---
 
@@ -17,7 +17,7 @@
 
 
 
-## Queue란?
+## Queue 란?
 
 ![](img/queue-struct.png)
 
@@ -102,7 +102,7 @@
 
 
 
-## Stack이란?
+## Stack 이란?
 
 ![](img/stack-struct.png)
 
