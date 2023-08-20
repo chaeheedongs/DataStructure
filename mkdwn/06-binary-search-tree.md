@@ -27,7 +27,9 @@
 Binary Tree 특징인 1부모 2자식으로 구성되어 있으며,  
 Tree의 데이터가 정렬이 되어 있다.  
 
-루트노드를 기준으로 왼쪽은 루트노드보다 데이터가 작고 오른쪽은 데이터가 크다.
+루트노드를 기준으로 왼쪽은 루트노드보다 데이터가 작고 오른쪽은 데이터가 크다.  
+
+[코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/e_binary_search_tree/BinarySearchTree.java)
 
 <br/><br/><br/>
 
