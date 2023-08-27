@@ -36,8 +36,8 @@ Hash Function 생성 함수를 타고 Index 가 생성 되며,
 
 인덱스의 데이터가 저장되는 공간을 ***버킷(buckets)*** 이라고 한다.
 
-[코드 확인하기]()  
-[결과 코드 확인하기]()
+[코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/f_hash_table/HashTable.java)  
+[결과 코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/f_hash_table/HashTableTest.java)
 
 <br/><br/><br/>
 
