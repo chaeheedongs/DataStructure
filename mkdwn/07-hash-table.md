@@ -10,10 +10,10 @@
 * [Hash Table 이란?](#Hash-Table-이란?)
 * [Hash Function](#Hash-Function)
 * [Hash 충돌](#Hash-충돌)
-* [Set [Separate Chaning]](#Set-[Separate-Chaning])
-* [Remove [Separate Chaning]](#Remove-[Separate-Chaning])
-* [Get [Separate Chaning]](#Get-[Separate-Chaning])
-* [Keys [Separate Chaning]](#Keys-[Separate-Chaning])
+* [Set [Separate Chaning]](#Set)
+* [Remove [Separate Chaning]](#Remove)
+* [Get [Separate Chaning]](#Get)
+* [Keys [Separate Chaning]](#Keys)
 
 ---
 
@@ -91,7 +91,7 @@ Open Addressing 방식은 Hash Collision 이 발생할 경우
 
 
 
-## Set [Separate Chaning]
+## Set
 * Hash Table에 데이터를 추가한다.
 * ~~~java
     private void set(String key, Object value) {
@@ -126,7 +126,7 @@ Open Addressing 방식은 Hash Collision 이 발생할 경우
 
 
 
-## Remove [Separate Chaning]
+## Remove
 * Hash Table에 데이터를 삭제한다.
 * ~~~java
     public boolean remove(String key) {
@@ -171,7 +171,7 @@ Open Addressing 방식은 Hash Collision 이 발생할 경우
 
 
 
-## Get [Separate Chaning]
+## Get
 * Hash Table에 Key 값을 조회한다.
 * ~~~java
     public Object get(String key) {
@@ -203,7 +203,7 @@ Open Addressing 방식은 Hash Collision 이 발생할 경우
 
 
 
-## Keys [Separate Chaning]
+## Keys
 * Hash Table의 모든 키를 조회한다.
 * ~~~java
     public List keys() {
