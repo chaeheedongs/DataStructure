@@ -7,3 +7,5 @@
 * [Tree](https://github.com/chaeheedongs/DataStructure/blob/main/mkdwn/05-tree.md)
 * [Binary Search Tree](https://github.com/chaeheedongs/DataStructure/blob/main/mkdwn/06-binary-search-tree.md)
 * [Hash Table](https://github.com/chaeheedongs/DataStructure/blob/main/mkdwn/07-hash-table.md)
+* [Graph](https://github.com/chaeheedongs/DataStructure/blob/main/mkdwn/08-graph.md)
+* [Heap](https://github.com/chaeheedongs/DataStructure/blob/main/mkdwn/09-heap.md)
