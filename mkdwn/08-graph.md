@@ -36,8 +36,8 @@ Graph란 정점(Vertex, Node)과 간선(Edge)으로 이루어진 자료구조다
 
 
 
-[코드 확인하기]()  
-[결과 코드 확인하기]()
+[코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/g_graph/Graph.java)  
+[결과 코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/g_graph/GraphTest.java)
 
 <br/><br/><br/>
 
