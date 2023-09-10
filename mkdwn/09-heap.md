@@ -26,8 +26,8 @@
 위 그림 처럼 완전 이진 트리로 구성되어 있다.  
 힙의 장점으로 값을 검색할 때 O(log n) 으로 값을 찾을 수 있다.
 
-[코드 확인하기]()  
-[결과 확인하기]()
+[코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/h_heap/Heap.java)  
+[결과 코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/h_heap/HeapTest.java)
 
 <br/><br/><br/>
 
