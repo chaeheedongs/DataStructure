@@ -28,8 +28,8 @@ Recursion은 반복문(for, while) 문을 대체 할 수 있으며,
 끝나는 점이 없으면 계속 자기 자신을 호출하기 때문에  
 무조건 스텍 오버 플로우가 발생한다.
 
-[Factorial 코드 확인하기]()  
-[Recursion Complete BST 코드 확인하기]()
+[Factorial 코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/i_recursion/RecursionTest.java)  
+[Recursion Complete BST 코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/i_recursion/RecursionCompleteBinarySearchTree.java)
 
 <br/><br/><br/>
 
