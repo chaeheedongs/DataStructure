@@ -53,7 +53,7 @@
 
 ![](img/sort-bubble-img.png)
 
-[코드 확인하기]()
+[코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/j_sort/BubbleSort.java)
 
 * 버블 정렬 이라고 부른다.
 * Sort 알고리즘 중에서 제일 느리고 좋지 않다.
@@ -105,7 +105,7 @@
 
 ![](img/sort-selection-img.png)
 
-[코드 확인하기]()
+[코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/j_sort/SelectionSort.java)
 
 * 선택 정렬 이라고 부른다.
 * Sort 알고리즘 중에서 버블 정렬 다음으로 빠르지만 느리고 좋지 않다.
@@ -175,7 +175,7 @@
 
 ![](img/sort-insertion-img.png)
 
-[코드 확인하기]()
+[코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/j_sort/InsertionSort.java)
 
 * 삽입 정렬 이라고 부른다.
 * Sort 알고리즘 중에서 버블, 선택 정렬 다음으로 빠르지만 느리고 좋지 않다.
