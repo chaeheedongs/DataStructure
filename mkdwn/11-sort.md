@@ -249,7 +249,7 @@
 
 ![](img/sort-merge-img.png)
 
-[코드 확인하기]()
+[코드 확인하기](https://github.com/chaeheedongs/DataStructure/blob/main/src/j_sort/MergeSort.java)
 
 * 병합 정렬 이라고 부른다.
 * 재귀 방식을 활용한 정렬 방식이다.
